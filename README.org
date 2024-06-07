@@ -1,0 +1,5 @@
+Modification of the "Unsplash" theme to include Gravatars (or Libravatars)
+
+Just add ~custom_portal.js~ to your own ~/usr/share/ssowat/portal/assets/themes/{YOUR_THEME}/~
+
+Also it can get a random background image from Archillect as Unsplash doesn't work anymore.
